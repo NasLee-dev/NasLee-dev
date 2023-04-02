@@ -32,7 +32,7 @@ function WootaikLee() {
 
 ## Education
 - 2019.12 ~ 2020.06: Software Development and Application with AI uitilzation course.
-- 2012.03 ~ 2019.02: Hankuk University of Foreign Study, Bachelor's degree.
+- 2012.03 ~ 2019.02: Hankuk University of Foreign Studies, Bachelor's degree.
 
 |         |Skill Stack|
 |---------|-----------|
