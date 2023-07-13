@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ```typescript
 function WootaikLee() {
   const name: string = '이우택';
-  const age: number = 33;
-  const skillSets: string[] = ["JavaScript", "Python", "ELK", "MSSQL"];
+  const age: number = 32;
+  const skillSets: string[] = ["JavaScript", "Python", "ELK", "MSSQL", "TypeScript", "Next.js", "React.js"];
 }
 ```
 ---
@@ -31,6 +31,7 @@ function WootaikLee() {
 - Also i do physical trainning(MMA) for my health and so, yes, i love watching sports and working out!
 
 ## Education
+- 2023.04 ~ 2023.05: K-digital basic trainnig(FastCampus + Ministry of Employment and Labor)
 - 2019.12 ~ 2020.06: Software Development and Application with AI uitilzation course.
 - 2012.03 ~ 2019.02: Hankuk University of Foreign Studies, Bachelor's degree.
 
