@@ -40,7 +40,7 @@ function WootaikLee() {
 |Main Skill|JavaScript, Python|
 |Which OS can i use ?|Windows, Linux|
 |Where can i store ?|MSSQL, Oracle|
-|IDE ?|VSCode, Jupyter Notebook, Postman|
+|IDE ?|VSCode, Jupyter Notebook, Cursor|
 
 ## Want to see another posts?
 ---
