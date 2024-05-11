@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ```typescript
 function WootaikLee() {
   const name: string = '이우택';
-  const age: number = 32;
+  const age: number = 33;
   const skillSets: string[] = ["JavaScript", "Python", "ELK", "MSSQL", "TypeScript", "Next.js", "React.js"];
 }
 ```
