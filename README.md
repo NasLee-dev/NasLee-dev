@@ -25,7 +25,7 @@ function WootaikLee() {
 ```
 ---
 ## About Me
-- Currently working as a front-end developer in a start-up company which is located at Seoul of Republic of Korea
+- Currently working as a front-end developer in a Aution based company which is located at Seoul of Republic of Korea
 - Worked as a System Engineer and ELK Engineer. So i have a lot of interests in network system, data as well as programming.
 - In my free time, i usually do study for JavaScript or any other programming languages(like python for algorithm)
 - Also i do physical trainning(MMA) for my health and so, yes, i love watching sports and working out!
