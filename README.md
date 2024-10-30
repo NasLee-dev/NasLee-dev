@@ -42,9 +42,3 @@ function WootaikLee() {
 |Where can i store ?|MSSQL, Oracle|
 |IDE ?|VSCode, Jupyter Notebook, Cursor|
 
-## Want to see another posts?
----
-- Notion
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fined187&show_icons=true&theme=radical)
