@@ -41,7 +41,3 @@ function WootaikLee() {
 |Which OS can i use ?|Windows, Linux|
 |Where can i store ?|MSSQL, Oracle|
 |IDE ?|VSCode, Jupyter Notebook, Cursor|
----
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
