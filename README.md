@@ -14,23 +14,24 @@ Here are some ideas to get you started:
 -->
 # MangoLeeProfile👋
 
-## Profile about Mango Lee!
+## Hey~!
 ---
 ```typescript
 function WootaikLee() {
   const name: string = '이우택';
   const age: number = 33;
-  const skillSets: string[] = ["JavaScript", "Python", "ELK", "MSSQL", "TypeScript", "Next.js", "React.js"];
+  const skillSets: string[] = ["JavaScript", "Python", "ELK", "MSSQL", "TypeScript", "Next.js", "React.js", "Next.js"];
 }
 ```
 ---
 ## About Me
 - Currently working as a front-end developer in a Aution based company which is located at Seoul of Republic of Korea
 - Worked as a System Engineer and ELK Engineer. So i have a lot of interests in network system, data as well as programming.
-- In my free time, i usually do study for JavaScript or any other programming languages(like python for algorithm)
+- In my free time, i usually do study for JavaScript or any other programming languages.
 - Also i do physical trainning(MMA) for my health and so, yes, i love watching sports and working out!
 
 ## Education
+- 2024.09 ~ 2024.11: Advanced trainning for junior front-end
 - 2023.04 ~ 2023.05: K-digital basic trainnig(FastCampus + Ministry of Employment and Labor)
 - 2019.12 ~ 2020.06: Software Development and Application with AI uitilzation course.
 - 2012.03 ~ 2019.02: Hankuk University of Foreign Studies, Bachelor's degree.
