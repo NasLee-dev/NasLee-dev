@@ -20,7 +20,16 @@ Here are some ideas to get you started:
 function WootaikLee() {
   const name: string = '이우택';
   const age: number = 33;
-  const skillSets: string[] = ["JavaScript", "Python", "ELK", "MSSQL", "TypeScript", "Next.js", "React.js", "Next.js"];
+  const skillSets: string[] = [
+    "JavaScript",
+    "Python",
+    "ELK",
+    "MSSQL",
+    "TypeScript",
+    "Next.js",
+    "React.js",
+    "Next.js"
+  ];
 }
 ```
 ---
